@@ -1,1 +1,1 @@
-document.getElementById(bogus).classList.add("huga")
+document.getElementById(bogus).classList.add("there")
