@@ -1,1 +1,1 @@
-document.getElementById(bogus).classList.add("ulary")
+document.getElementById(bogus).classList.add("ularyi")
